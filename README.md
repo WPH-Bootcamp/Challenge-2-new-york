@@ -44,6 +44,7 @@ The evaluation for this assignment will be based on the following criteria:
 2.  **Semantic HTML Usage:** The correct and appropriate use of HTML tags according to the content structure.
 3.  **Effective CSS Usage:** The correct and efficient use of CSS selectors, as well as understanding of basic CSS properties and _media queries_ (if responsiveness is implemented).
 4.  **Code Readability and Organization:** HTML and CSS code that is well-structured, easy to read, and commented where necessary.
+5. **Git Workflow:** Able to create a new branch and merge it back into the main branch.
 
 ---
 
@@ -58,3 +59,4 @@ Check this module: [click this](https://orchid-clematis-3e4.notion.site/Panduan-
 # t-challenge-1-donat
 
 # t-challenge-1-donat
+
